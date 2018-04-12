@@ -1,0 +1,6 @@
+framework module Pods_Importing_JSON_to_FireBase {
+  umbrella header "Pods-Importing JSON to FireBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
